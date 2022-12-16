@@ -44,7 +44,7 @@ El proceso detallado de lo realizado en cada dataset se describe en el Jupyter N
     <ul>
       <li>
         <strong>Proyecto 2</strong>
-        <a href="https://github.com/JozCrzBrgn/ProyectoIndividualHospital/blob/main/Hospitales.ipynb">Jupyter Notebook</a>
+        <a href="https://github.com/JozCrzBrgn/ProyectoIndividualHospital/blob/main/ML_Hospitales.ipynb">Jupyter Notebook</a>
       </li>
     </ul>
    <h4>
